@@ -1,0 +1,9 @@
+c:\users\kcs\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+c:\users\kcs\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+c:\users\kcs\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+c:\users\kcs\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+c:\users\kcs\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+c:\users\kcs\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\KCS\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\TcpClients1.Form1.resources
+C:\Users\KCS\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\TcpClients1.Properties.Resources.resources
+C:\Users\KCS\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
